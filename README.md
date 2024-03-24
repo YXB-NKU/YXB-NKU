@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a year 1 PhD student at National University of Singapore.
+I am a PhD student at National University of Singapore.
 
 
 ![](https://komarev.com/ghpvc/?username=Happylkx)
