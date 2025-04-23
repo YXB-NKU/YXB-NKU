@@ -11,4 +11,4 @@ I am a Ph.D. student at the National University of Singapore, focusing on **mult
 
 ![](https://komarev.com/ghpvc/?username=likaixin2000)
 
-[![Kaixin Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=likaixin2000)]()
+[![Kaixin Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=likaixin2000&include_all_commits=true)]()
