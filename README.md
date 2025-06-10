@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-I am a Ph.D. student at the National University of Singapore, focusing on **multimodal models, autonomous agents, and code generation**. 🚀
+I am a M.S. student at Nankai University, focusing on **multimodal models, autonomous agents, and object detection**. 🚀
 
 ### 🔍 About Me
 🎓 Ph.D. researcher passionate about exploring AI, deep learning, and computational creativity.
@@ -9,6 +9,6 @@ I am a Ph.D. student at the National University of Singapore, focusing on **mult
 
 🤝 Open to collaborations, research discussions, and exciting projects in AI and machine learning.
 
-![](https://komarev.com/ghpvc/?username=likaixin2000)
+![](https://komarev.com/ghpvc/?username=YXB-NKU)
 
-[![Kaixin Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=likaixin2000&include_all_commits=true)]()
+[![Kaixin Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=YXB-NKU&include_all_commits=true)]()
