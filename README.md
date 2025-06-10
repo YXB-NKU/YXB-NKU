@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-I am a M.S. student at Nankai University, focusing on **multimodal models, autonomous agents, and object detection**. 🚀
+I am a M.S. student at Nankai University supervised by Prof. Ming-Ming Cheng & Prof. Qi-Bin Hou, focusing on **multimodal models, autonomous agents, and object detection**.🚀
 
 ### 🔍 About Me
 🎓 M.S. researcher passionate about exploring AI, deep learning, and computational creativity.
