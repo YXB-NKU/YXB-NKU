@@ -3,7 +3,7 @@
 I am a M.S. student at Nankai University, focusing on **multimodal models, autonomous agents, and object detection**. 🚀
 
 ### 🔍 About Me
-🎓 Ph.D. researcher passionate about exploring AI, deep learning, and computational creativity.
+🎓 M.S. researcher passionate about exploring AI, deep learning, and computational creativity.
 
 🧠 Deeply interested in building intelligent systems that can understand and generate across modalities (e.g., text, images, videos and code).
 
