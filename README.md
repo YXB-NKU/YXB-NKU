@@ -11,4 +11,4 @@ I am a M.S. student at Nankai University, focusing on **multimodal models, auton
 
 ![](https://komarev.com/ghpvc/?username=YXB-NKU)
 
-[![Kaixin Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=YXB-NKU&include_all_commits=true&show_other_wise=true)]()
+[![Xinbin Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YXB-NKU&include_all_commits=true&show_other_wise=true&theme=radical)]()
