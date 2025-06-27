@@ -11,3 +11,6 @@ I am a M.S. student at Nankai University supervised by Prof. Ming-Ming Cheng & P
 
 ![](https://komarev.com/ghpvc/?username=YXB-NKU)
 
+📧 Email: [yuanxinbin.nku@gmail.com]()
+
+<img align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=YXB-NKU&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR">
